@@ -4,7 +4,7 @@
 This is a project about an elm-based Parkour-like game. 
 
 ## Getting Started
-[play_now](https://tic-top.github.io/light_strider/)
+[play_now](https://ericdinging.github.io/light_strider/)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
