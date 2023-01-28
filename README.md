@@ -1,7 +1,6 @@
 
 # Light Strider
-### Date: 11, july, 2021
-### Update: 7, Nov, 2022
+### Date: 11, July, 2021
 This is a project about an elm-based Parkour-like game. 
 
 ## Getting Started
