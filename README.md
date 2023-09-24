@@ -15,9 +15,9 @@ You need to install elm in your machine. Refer to the [link](https://focs.ji.sjt
 
 ## Built With
 
-* [Elm]
-* [Vscode]
-* [Webstorm]
+* Elm
+* Vscode
+* Webstorm
 
 
 ## Versioning
@@ -30,11 +30,6 @@ You need to install elm in your machine. Refer to the [link](https://focs.ji.sjt
 * **Yuqi Mai**
 * **Ding Ding**
 * **Yilin Jia**
-
-
-## Acknowledgments
-
-* Joe for passing our proposal :)
 
 # Reference
 ## Graphics
