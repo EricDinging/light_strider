@@ -1,7 +1,7 @@
 
 # Light Strider
 ### Date: 11, July, 2021
-This is a project about an elm-based Parkour-like game. 
+This is an ELM-based front end game. 
 
 ## Getting Started
 [play_now](https://ericdinging.github.io/light_strider/)
@@ -20,26 +20,9 @@ https://focs.ji.sjtu.edu.cn/git/SilverFOCS-21/management/wiki/Setup%3A-Elm-insta
 
 ## Built With
 
-* [Elm]
-* [Vscode]
-* [Webstorm]
-
-
-## Versioning
-
- For the versions available, see the [tags on this repository](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-21/p2team2/releases). 
-
-## Authors
-
-* **Hangxin Chen**
-* **Yuqi Mai**
-* **Ding Ding**
-* **Yilin Jia**
-
-
-## Acknowledgments
-
-* Joe for passing our proposal :)
+* Elm
+* Vscode
+* Webstorm
 
 # Reference
 ## Graphics
