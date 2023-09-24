@@ -10,12 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need to install elm in your machine. Refer to the link below.
-
-```
-https://focs.ji.sjtu.edu.cn/git/SilverFOCS-21/management/wiki/Setup%3A-Elm-installation-on-Windows-WSL
-```
-
+You need to install elm in your machine. Refer to the [link](https://focs.ji.sjtu.edu.cn/git/SilverFOCS-21/management/wiki/Setup%3A-Elm-installation-on-Windows-WSL)
 
 
 ## Built With
